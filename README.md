@@ -1,2 +1,3 @@
-# chargingline
-A shared charging line project.
+# MetaCoin Truffle Box
+
+MetaCoin example Truffle project
